@@ -23,7 +23,6 @@ Hosted on Netlify: Play Now
   
 📦 Installation & Usage
 git clone https://github.com/ankitbhagat07/RPS-game.git
-cd rock-paper-scissors
 
 🧪 How to Play
 - Click on Rock, Paper, or Scissors.
